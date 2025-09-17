@@ -6,9 +6,9 @@ youtube：https://youtube.com/watch?v=HA7zeKJliek
 
 ![算法框架](./fig/framework.jpg)
 
-[![视频预览](./fig/result.jpg)](https://youtube.com/watch?v=HA7zeKJliek)
-
 [![视频预览](./fig/result2.jpg)](https://youtube.com/watch?v=HA7zeKJliek)
+
+[![视频预览](./fig/result.jpg)](https://youtube.com/watch?v=HA7zeKJliek)
 
 
 
